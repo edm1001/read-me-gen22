@@ -125,7 +125,7 @@ const questions = [
 inquirer.prompt(questions)
     .then((userInput) => {
         console.log(userInput)
-        return writeToFile('./utils/README.md', generateMarkdown(userInput));
+        return writeToFile('./dist/README.md', generateMarkdown(userInput));
     })
 
 // TODO: Create a function to write README file
