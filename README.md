@@ -26,7 +26,7 @@ It is used to make a quick readme file for projects to save time.
 
 ---
 ## Contributors
-None
+Edmer Franciz Valencia
 
 ---
 ## License
